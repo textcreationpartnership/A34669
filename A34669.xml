@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries tending to accommodation and communion of Presbyterian &amp; Congregationall churches by Mr John Cotton ...  ; published by a friend to whom the author himselfe sent them over not long before his death.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34669</idno>
+            <idno type="STC">Wing C6416</idno>
+            <idno type="STC">ESTC R37665</idno>
+            <idno type="EEBO-CITATION">11882845</idno>
+            <idno type="OCLC">ocm 11882845</idno>
+            <idno type="VID">50336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50336)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 23:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries tending to accommodation and communion of Presbyterian &amp; Congregationall churches by Mr John Cotton ...  ; published by a friend to whom the author himselfe sent them over not long before his death.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for John Allen and Francis Eglesfield ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterian Church --  Relations --  Congregational churches.</term>
+               <term>Congregational churches --  Relations --  Presbyterian Church.</term>
+               <term>Congregationalism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50336:1"/>
+            <pb facs="tcp:50336:1"/>
+            <p>CERTAIN QUERIES Tending to Accommodation <hi>and</hi> Communion of <hi>Presbyterian</hi> &amp; <hi>Congregationall</hi> Churches.</p>
+            <p>
+               <hi>BY</hi> M<hi rend="sup">r</hi> JOHN COTTON late Teacher of the Church at <hi>Boſton</hi> in <hi>New-England.</hi>
+            </p>
+            <p>Publiſhed by a Friend to whom the Author himſelfe ſent them over not long before his Death.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>M. S.</hi> for <hi>John Allen</hi> and <hi>Francis Egleſfield</hi> in <hi>Pauls</hi> Church-yard. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="questions_concerning_Presbyterian_and_Congregational_churches">
+            <pb facs="tcp:50336:2"/>
+            <pb n="1" facs="tcp:50336:2"/>
+            <head>Certain <hi>Queries</hi> tend<g ref="char:EOLhyphen"/>ing to the mutuall Accommo<g ref="char:EOLhyphen"/>dation &amp; Communion of <hi>Presbyte<g ref="char:EOLhyphen"/>rian</hi> and <hi>Congregationall</hi> Churches; delivered in 11 Propoſitions, &amp; hum<g ref="char:EOLhyphen"/>bly preſented both to the Conſi<g ref="char:EOLhyphen"/>deration and Examination of them according to God;</head>
+            <byline>BY <hi>M<hi rend="sup">r</hi> JOHN COTTON.</hi>
+            </byline>
+            <div n="1" type="part">
+               <head>The 1. Querie.</head>
+               <p>
+                  <hi>Whether may it not be ſafely acknowledged, that the Congregations of Chriſtians ſub<g ref="char:EOLhyphen"/>ject to Presbyteriall Government, preach<g ref="char:EOLhyphen"/>ing and profeſſing the Truth of the Go<g ref="char:EOLhyphen"/>ſpel, and not over-growne with ignorant and ſcandalous Perſons, are true and holy Churches of Chriſt?</hi>
+               </p>
+               <div type="section">
+                  <p>
+                     <seg rend="decorInit">B</seg>Ecauſe, ſuch Churches, (for the <hi>Matter</hi> of them) conſiſt of viſible Saints, (at leaſt a principall part of them) e<g ref="char:EOLhyphen"/>ſpecially when they preſent themſelves to ſit downe before the Lord at his Ta<g ref="char:EOLhyphen"/>ble.
+<pb n="2" facs="tcp:50336:3"/>And for the <hi>Forme;</hi> they doe agree together in chooſing their owne Mini<g ref="char:EOLhyphen"/>ſter, in attending duely to the Miniſtry of the Word and Sacraments, and in ſubmitting to the Doctrine of the Go<g ref="char:EOLhyphen"/>ſpel: which implyeth a reall and viſi<g ref="char:EOLhyphen"/>ble (though implicite) profeſſion of the Covenant of grace requiſite to Church-eſtate.</p>
+                  <p>
+                     <label>Object.</label> The Pariſh-Churches in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> were Antichriſtian, if not in their firſt Inſtitution, yet at leaſt for theſe many hundred yeares; and were never ſince unchurched, nor new moulded out of their Anchriſtian Apoſtacy.</p>
+                  <p>
+                     <label>Anſw.</label>
+                     <list>
+                        <item>1. The Goſpel of Chriſt was preached and received in <hi>England</hi> ten yeares before it was i<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. <hi>Rome</hi> (as may appeare by <hi>Gildas,</hi> and may be inferred from <hi>Baronius</hi> alſo, <hi>Annal Anno Chriſti</hi> 35.5. <hi>&amp;</hi> 45.1.) and that by the Mini<g ref="char:EOLhyphen"/>ſtry of Apoſtles and Apoſtolick men, who doubtleſſe did at firſt inſtitute Churches, not after the Pattern of <hi>Rome</hi> (which then was not a Church) but according to the Patterne of the Apo<g ref="char:EOLhyphen"/>ſtles.</item>
+                        <item>2. Neither were they unchurched by the Antichriſtian Apoſtacy which after<g ref="char:EOLhyphen"/>wards
+<pb n="3" facs="tcp:50336:3"/>grew upon them (as a Leproſie) but were onely corrupted and pollu<g ref="char:EOLhyphen"/>ted, even in many fundamentalls, both in Doctrine, Worſhip, &amp; Government, which made them like unto the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> under the Apoſtacy of <hi>Jezabel,</hi> the generallity being carryed away by the Corruption of the times, but a Rem<g ref="char:EOLhyphen"/>nant reſerved (through grace) which bowed not the knee to <hi>Baal.</hi>
+                        </item>
+                        <item>3. Since the Beginning of the <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> many of the Church-members (by the power of the Goſpel) reformed to a new eſtate of viſible Saints, and the fundamentall corruptions in Doctrine and worſhip were purged away, and both of them ſo renued as that the pre<g ref="char:EOLhyphen"/>ſence and power of Chriſt was diſcern<g ref="char:EOLhyphen"/>ed in the face of the Ordinances. And for the <hi>Government,</hi> though it give not being (but wel-being to Churches yet) it hath alſo been growing more and more into better order unto this day. In ſo much that Proteſtant Churches have renounced fellowſhip with Anti<g ref="char:EOLhyphen"/>chriſt and his Churches, and have ſepa<g ref="char:EOLhyphen"/>rated from them in Doctrine, Worſhip, and Government: which if it reach not to a new-churching, yet it is a renuall
+<pb n="4" facs="tcp:50336:4"/>of their Church eſtate, and a new moulding of them into a more holy way of Adminiſtration of Church-Or<g ref="char:EOLhyphen"/>dinances; ſo that now they ſtand as Churches gathered out of the world both of Antichriſtians and of Pagans. The <hi>Iſraelites</hi> after their Returne from under the Apoſtacy of <hi>Jezabel,</hi> did nei<g ref="char:EOLhyphen"/>ther ſolemnely unchurch themſelves of their former corrupt eſtate, nor In<g ref="char:EOLhyphen"/>church themſelves into a better new eſtate; but being called to Repentance by the Kings Proclamation, and their hearts being bored of God to ſubmit themſelves thereto, though they fell ſhort of a full Purification, yet they were received to the <hi>Lords Supper</hi> (the Paſſeover) together with their Brethren of the purer Church of <hi>Judah.</hi> 2 Chro. 30.18, 19, 20.</item>
+                     </list>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>The 2<hi rend="sup">d</hi>. Querie.</head>
+               <p>Preſuppoſing then the Presbyterian Congregations to be true Churches, <hi>Whether hence It will not cleerely follow, that the Miniſters called by them (being o<g ref="char:EOLhyphen"/>therwiſe men of Miniſteriall gifts) are true Miniſters; and the Sacraments adminiſtred
+<pb n="5" facs="tcp:50336:4"/>by them are true Seales of the Covenant of Grace?</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>The 3<hi rend="sup">d</hi>. Querie.</head>
+               <p>Nevertheleſſe, <hi>Whether may it not be juſtly doubted, that the eſtate of both Chur<g ref="char:EOLhyphen"/>ches is ſinfully defective; The Presbyterian, partly in their Materialls, in caſe the Mem<g ref="char:EOLhyphen"/>bers, diverſe of them, be (not profeſſed Saints, but) either ignorant or ſcandalous, and apparently carnall and worldly: partly in their Government, by the Presbyters of other Churches; which way of Government, though it had place (in ſundry Caſes) in the Nationall Church of the old Teſtament, yea, and in the New Teſtament, might be practi<g ref="char:EOLhyphen"/>ſed for a time by the Apoſtles themſelves (who were Oecumeniall Governours of all Chriſtian Churches:) yet the ſame was ne<g ref="char:EOLhyphen"/>ver delegated nor commended to the Paſtors and Teachers of particular Congregations? The Congregationall likewiſe how can they be excuſed, in caſe there be any ſuch as doe admit all manner of Sects into their Cove<g ref="char:EOLhyphen"/>nant and Communion; and will not allow the Civill Magiſtrates to proceed to the Cenſure of ſeducing Hereticks and prophane Blaſ<g ref="char:EOLhyphen"/>phemers?</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb n="6" facs="tcp:50336:5"/>
+               <head>The 4. Querie.</head>
+               <p>For the Healing of which defects; <hi>were it not much to be wiſhed that the Mem<g ref="char:EOLhyphen"/>bers of Presbyterian Churches, did once pub<g ref="char:EOLhyphen"/>lickly profeſſe their Faith and Repentance before their partaking of the Lords Table? (as John Baptiſts Diſciples did before their Baptiſme, and as Members of Congregatio<g ref="char:EOLhyphen"/>nall Churches doe before their Admiſſion:) that ſo None ſuch as were ignorant or ſcan<g ref="char:EOLhyphen"/>dalous might be admitted to the Lords Table till they were duely approved to be Men of knowledge, ſound in the Faith, and blame<g ref="char:EOLhyphen"/>leſſe in converſation?</hi> And further alſo, <hi>whether would it not much conduce to a more full and cleere acceptance of their Ad<g ref="char:EOLhyphen"/>miniſtrations, If their Elders in the Claſſis did put forth no Authoritative Act, touch<g ref="char:EOLhyphen"/>ing the Members of other Churches, but con<g ref="char:EOLhyphen"/>ſultative onely; nor touching their owne, but (upon hearing the advice of Fellow Elders in difficult caſes) to proceede each one with the Cognizance and Conſent of his owne Church at home reſpectively?</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>The 5. Querie.</head>
+               <p>
+                  <hi>For want or Neglect hereof, Though the Members of Presbyterian Churches ſhould
+<pb facs="tcp:50336:5"/>diſcerne ſome Defects in the Order and Government of their Churches; yet whether may they ſuddenly breake off Communion with them till they have convinced them of their Defects, and duely and patiently wai<g ref="char:EOLhyphen"/>ted for their Reformation?</hi>
+               </p>
+               <div type="section">
+                  <p>It may ſeeme No: For if we muſt take a more delatory courſe for the healing of a private Brother, in a way of brotherly love, with much meekneſs and patience; how much more ought we ſo to walke towards an whole Church?</p>
+               </div>
+            </div>
+            <div n="6" type="part">
+               <head>The 6. Querie.</head>
+               <p>
+                  <hi>Such a Brother, though as yet remaining a Member of a Presbyterian Church yet ſen<g ref="char:EOLhyphen"/>ſible of the Defects of his owne Church, and being otherwiſe knowne to be fit, why may be not lawfully and without ſcruple be received to partake at the Lords Table (as occaſion ſerveth) in a Congregationall Church?</hi>
+               </p>
+               <div type="section">
+                  <p>For ſuch an one is both a Member of a true Church, and cleanſed from the defects of his owne Church.</p>
+               </div>
+            </div>
+            <div n="7" type="part">
+               <head>The 7. Querie.</head>
+               <p>
+                  <hi>Yea, ſuppoſe a godly Chriſtian doe continue
+<pb n="8" facs="tcp:50336:6"/>Presbyterian in his Judgement, and yet doe approve alſo of a Congregationall way, and is deſtrous to joyne in Covenant with a Congre<g ref="char:EOLhyphen"/>gationall Church, whether may be not in due order be lawfully admitted and continued a Member of a Congregationall Church? Yea further, Notwithſtanding the different ſtate and way of Presbyterian and Congre<g ref="char:EOLhyphen"/>gationall Churches, and the Defects which the one or the other may obſerve or ſurmize either in other; yet (even whileſt they ſo ſtand and walke) whether may not the Members of either without juſt offence, mu<g ref="char:EOLhyphen"/>tually Communicate one with another (as occaſion ſhall be offered) at the Lords Table?</hi>
+               </p>
+               <div type="section">
+                  <p>The Affirmative ſeemeth probable; For as Error in Judgement about Di<g ref="char:EOLhyphen"/>ſcipline is not an Hereſie againſt the Foundation of Chriſtian Religion. And the Apoſtle inſtructeth Chriſtian Churches to receive the Chriſtian Jewes into their Church-fellowſhip, who yet diſſented from them about the obſet<g ref="char:EOLhyphen"/>vation of Leviticall Rites, which were as much diſcrepant from the Truth of the Goſpel in the Order of worſhip, as theſe other be in Order of Govern<g ref="char:EOLhyphen"/>ment.</p>
+                  <pb n="9" facs="tcp:50336:6"/>
+                  <p> Beſides, God accepteth cleanneſs of heart in his faithfull ſervants in their approaches to his Table, though there be defects in full cleanſing, according to the Order of the Sanctuary. 2 <hi>Chron.</hi> 30.18, 19, 20.</p>
+               </div>
+            </div>
+            <div n="8" type="part">
+               <head>The 8. Querie.</head>
+               <p>
+                  <hi>If a godly Miniſter called to Office by a People profeſſing Godlineſs (whether under Epiſcopacy, or Presbytery) and afterward repenting of any knowne ſinne in his way, ſhall be deſirous of a more pure Reformati<g ref="char:EOLhyphen"/>on; whether may not his godly people ac<g ref="char:EOLhyphen"/>knowledge his Miniſteriall Calling without ſinne?</hi>
+               </p>
+               <div type="section">
+                  <p>Why not? For he had the Eſſence of a lawfull Calling before, in the free choice of his godly People, and in his owne free acceptance of them and of their Call. Nevertheleſs, if any of his godly People ſhould ſtumble at his for<g ref="char:EOLhyphen"/>mer Calling, whether may not a more ſelect Company and body of the Peo<g ref="char:EOLhyphen"/>ple renue their Call of him, and there to accept the Concurrence and Con<g ref="char:EOLhyphen"/>ſent of the reſt of the Congregation? And whether may not he alſo doe well
+<pb n="10" facs="tcp:50336:7"/>(inſtead of ſtiff ſtanding upon the va<g ref="char:EOLhyphen"/>lidiy of his former Calling) to con<g ref="char:EOLhyphen"/>deſcend to renue his Acceptance of them yea, and to receive a New Ordi<g ref="char:EOLhyphen"/>nation from them, with expreſs deſig<g ref="char:EOLhyphen"/>nation to the Office, either of a Paſtor or Teacher; and that without preju<g ref="char:EOLhyphen"/>dice or diſhonour to his former Cal<g ref="char:EOLhyphen"/>ling? For a renued Act doth not inva<g ref="char:EOLhyphen"/>lidate (much leſſe evacuate) the old, but cleare it and confirme it (ſo farre as there is any thing of God in it) as in Scripture all Ingeminations doe. <hi>Saul</hi> was thrice Ordained King over <hi>Iſrael,</hi> 1 <hi>Sam.</hi> 10.1. &amp; <hi>ver.</hi> 24. <hi>&amp;</hi> 11.14, 15. thrice to the ſame Calling, and with ſeverall ſolemnities. Neither is Ordi<g ref="char:EOLhyphen"/>nation of the Eſſence of a Miniſteriall Calling, but a ſolemne Adjunct of it; which may be renued upon occaſion of any New ſpirituall Imployment, or Function, Place or People, <hi>Acts</hi> 13.2, 3.</p>
+               </div>
+            </div>
+            <div n="9" type="part">
+               <head>The 9. Querie.</head>
+               <p>
+                  <hi>If the godly Members of a Congregation formerly ſubject to Epiſcopacy, but repent<g ref="char:EOLhyphen"/>ing of their ſinfull ſubordination thereunto,
+<pb n="11" facs="tcp:50336:7"/>and (being ſtudious of Reformation) have ſolemnly Covenanted to endeavour the ſame, and have choſen their former godly Mini<g ref="char:EOLhyphen"/>ſters (one or more) into the Paſtors or Tea<g ref="char:EOLhyphen"/>chers Office; Whether may not thoſe Mini<g ref="char:EOLhyphen"/>ſters withhold their Ignorant and carnall Hearers from the Lords Table (though they had their conſent to their Election) untill they be able to diſcerne the Lords Body, and be fit to receive it without prophaning it? But yet, in the meane time, whether may they not diſpence ſome other Miniſteriall Acts unto them, as to Preach the Word, and alſo to Catechize them and their Families? And if hereby they ſhall attain unto ſo much knowledge of the Principles of the Doctrine of the Goſpel, as to profeſſe before the Church both their need of Chriſt and his Covenant to themſelves, and the Seale thereof unto their Seed, and alſo their owne Duty of ſub<g ref="char:EOLhyphen"/>jection unto Chriſt in his Ordinances; and ſhall likewiſe be found free from any open ſcandall, or elſe openly judge themſelves for the ſame; Whether may it not be lawfull for the Miniſter to admit them to the Lords Table, and their Children to Baptiſme?</hi>
+               </p>
+               <div type="section">
+                  <p>For it is not with ſuch as with <hi>Iſh<g ref="char:EOLhyphen"/>mael</hi> and <hi>Eſau,</hi> who though they were borne in the Church, and ſealed under
+<pb n="12" facs="tcp:50336:8"/>the Covenant of <hi>Circumciſion,</hi> yet when they grew up to yeares, the one mocked at the Heire of the Covenant, and the other deſpiſed the Birth-right of the Covenant; and ſo the one was caſt out, and the other withdrew himſelfe from the fellowſhip of the Church, and both of them deprived their children of <hi>Cir<g ref="char:EOLhyphen"/>cumciſion.</hi> But ſuch is not the Caſe here of theſe we ſpeake of; but rather they are like the Seed of the <hi>Iſraelites,</hi> who though many of them were not ſin<g ref="char:EOLhyphen"/>cerely godly, yet whilſt they held forth the publick Profeſſion of Gods People (<hi>Deut.</hi> 26.3. to 11.) and continued under the wing of the Covenant and ſubjection to the Ordinances; They were ſtill accounted an <hi>holy Seed</hi> (Ezr. 9.2.) and ſo their children were Parta<g ref="char:EOLhyphen"/>kers of <hi>Circumciſion.</hi> Yea further though themſelves were ſometimes kept from the Lords Supper (the Paſſeover) for ſome or other uncleanneſs, yet that de<g ref="char:EOLhyphen"/>barred not their children from <hi>Circum<g ref="char:EOLhyphen"/>ciſion.</hi>
+                  </p>
+                  <p>Againſt this, may it not ſeeme vaine to ſtand upon a Difference between the Church of <hi>Iſrael</hi> and our Churches of the New Teſtament, in that theirs was
+<pb n="13" facs="tcp:50336:8"/>a <hi>Nationall</hi> Church, and ours <hi>Congrega<g ref="char:EOLhyphen"/>tionall?</hi> For the ſame Covenant which God made with the <hi>Nationall</hi> Church of <hi>Iſrael</hi> and their Seed, It is the very ſame (for ſubſtance) and none other which the Lord maketh with any <hi>Con<g ref="char:EOLhyphen"/>gregationall</hi> Church and our Seed. When the Jewes and their children were cut off from the fatneſs of the Olive, we and our children were engrafted into their roome and eſtate, <hi>Rom.</hi> 11.17, 19. ſo that we are now become <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, co<g ref="char:EOLhyphen"/>heires, concorporate, and compartners with them of the <hi>ſame promiſe</hi> in Jeſus Chriſt, <hi>Eph.</hi> 3.6.</p>
+               </div>
+            </div>
+            <div n="10" type="part">
+               <head>The 10. Querie.</head>
+               <p>
+                  <hi>When any Chriſtians deſire to be admit<g ref="char:EOLhyphen"/>ted into the Church, &amp; the Covenant there<g ref="char:EOLhyphen"/>of, whether is it regular that the Elders ſhould take all the Tryall of them in a private Conſiſtory alone? unleſſe it be in way of pre<g ref="char:EOLhyphen"/>paration, that ſo they may more fitly and ſafely commend them to the publick Tryall of the whole Church? But were it not meete, that the laſt Tryall of Members, upon which they (being approved) are received either
+<pb n="14" facs="tcp:50336:9"/>into the Church in a Congregationall way, or to the Lords Supper in a Presbyteriall way, ſhould be tranſacted before the Church?</hi>
+               </p>
+               <div type="section">
+                  <p>For as no Members are to be caſt out of the Church-Communion, but by the Judgement and Conſent of the Church (as well the Brethren as the Elders) ſo none ſhould be received into the Communion of the Church, but with the approbation and Conſent of the Church.</p>
+               </div>
+            </div>
+            <div n="11" type="part">
+               <head>The 11. Querie.</head>
+               <p>
+                  <hi>Whether is it juſt matter of Offence, If a Member of any Church, which lyeth under the Leaven of Corruption, after the uſe of all good meanes for the healing of the cor<g ref="char:EOLhyphen"/>ruptions of his owne Church (be it Preſ<g ref="char:EOLhyphen"/>byteriall or Congregationall) and after long waiting for the ſame in vaine, ſhall at the length (for the peace and Com<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ort of his owne Conſcience, and out of conſcionable Deſire to walke before the Lord in all pu<g ref="char:EOLhyphen"/>rity) quickly and orderly remove his Rela<g ref="char:EOLhyphen"/>tion, and adjoyne himſelfe to a Church more reformed, yet not condemning the Church (as no Church) from which he removeth?</hi>
+               </p>
+               <div type="section">
+                  <p>For if a man may remove his habita<g ref="char:EOLhyphen"/>tion
+<pb n="15" facs="tcp:50336:9"/>for outward eaſments and conve<g ref="char:EOLhyphen"/>niences, and then the removall of his Relation is eaſily granted without of<g ref="char:EOLhyphen"/>fence: Then why may he not, for the eaſe of his Conſcience, remove his Re<g ref="char:EOLhyphen"/>lation, though not his Habitation? un<g ref="char:EOLhyphen"/>leſſe his Habitation were <hi>Jure divino,</hi> an inſeparable Adjunct to his Relation, or his relation to his Habitation? Chri<g ref="char:EOLhyphen"/>ſtians (as Brethren) are called of God to bear one anothers Burdens, <hi>Gal.</hi> 6.2. If it be a Burden to ſtay in Communi<g ref="char:EOLhyphen"/>on, let his Brethren eaſe his Burden with a Diſmiſſion.</p>
+               </div>
+            </div>
+            <closer>Glory be to God in Chriſt Jeſus, and Peace to all his <hi>Iſrael.</hi>
+            </closer>
+         </div>
+         <div type="final_question_concerning_Presbyterian_and_Congregational_churches">
+            <p>UNto the aforeſaid <hi>Queries</hi> of the Reverend Author, this alſo may b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>efly be added, to make up the num<g ref="char:EOLhyphen"/>ber round.</p>
+            <div n="12" type="part">
+               <head>The 12. Querie.</head>
+               <p>
+                  <hi>Whether it be unlawfull, or may be truly accounted a neceſſary cauſe of Diſorder or Confuſion for godly Chriſtians, living in ſe<g ref="char:EOLhyphen"/>verall
+<pb n="16" facs="tcp:50336:10"/>Precincts or Pariſhes (not far diſtant, but ſo as they may ordainarily meet together in one place) to joyne in Church-fellowſhip together, for mutuall ſpirituall edification?</hi>
+               </p>
+               <p>That 'tis a very convenient and de<g ref="char:EOLhyphen"/>firable thing for the Members of a par<g ref="char:EOLhyphen"/>ticular Congregation, to inhabit and dwell as neer together as they may, in regard of their meeting together upon all occaſions, and of mutuall watch<g ref="char:EOLhyphen"/>fullneſſe over each other, and of ſpiri<g ref="char:EOLhyphen"/>tuall helpfulneſſe unto one another, is eaſily granted by all: yet it will not therefore follow, that 'tis an unlawfull and diſorderly thing for them to have their Abiding and Reſidence in divers Precincts and Pariſhes.</p>
+               <p>Indeed 'tis true, that it hath been ac<g ref="char:EOLhyphen"/>counted by the Prelates and the Prela<g ref="char:EOLhyphen"/>ticall party, a very diſorderly and un<g ref="char:EOLhyphen"/>lawfull thing, and that which did ex<g ref="char:EOLhyphen"/>poſe to the greateſt of their ſpirituall cenſures, for people ordinarily to goe to the Aſſemblies of Chriſtians out of their owne <hi>Pariſh.</hi> But their Account doth not make or prove it to be ſo: neither doth it ſeem really and in truth to be ſo: For,</p>
+               <p n="1">1 The Conſtitution of <hi>Parochiall</hi> or
+<pb n="17" facs="tcp:50336:10"/>
+                  <hi>Pariſh Churches,</hi> is not of Divine, but of humane Inſtitution, and that too in the very darkeſt times of Popery and Superſtition, <hi>viz.</hi> about 700 years ago, as learned Mr. <hi>Selden</hi> (in his Book of <hi>Tythes,</hi> ch. 9.) ſeems to intimate. So that although it may ſeem a diſorder, (in regard of that limitation of Pariſh<g ref="char:EOLhyphen"/>es) for the Pariſhioners of one place to joyne themſelves unto the <hi>Church Aſſemblies</hi> in another; yet not in re<g ref="char:EOLhyphen"/>gard of any thing appearing to the contrary from the Scripture, which is the rule for Chriſtians to walk by, e<g ref="char:EOLhyphen"/>ſpecially in matters belonging to Church-Adminiſtration, and Govern<g ref="char:EOLhyphen"/>ment. Neither will it (I ſuppoſe) be affirmed by any intelligent Chriſtian (who underſtanding in any meaſure the true Nature of a <hi>particular</hi> Church) that Pariſh-bounds are the conſtituting cauſe of a particular Church or Con<g ref="char:EOLhyphen"/>gregation; for it cannot be maintain<g ref="char:EOLhyphen"/>ed that every individuall perſon living in ſuch a Pariſh bounds, is therefore a Member of that Church there, except it can be proved, that profeſſed Turks, or Jewes, or Indians (who through providence may be brought into the
+<pb n="18" facs="tcp:50336:11"/>Land, and ſo neceſſarily reſide in ſome Pariſh or other, there being hardly any parcell of ground free in any part of <hi>England,</hi> from belonging to the bounds of ſome Pariſh or Towne) are as reall and true Members of the Church there, as any Chriſtian man or woman in the <hi>Pariſh.</hi> I conceive it neither any ſole<g ref="char:EOLhyphen"/>ciſme or Paradox to affirm, that there may be a Pariſh where there is no true Church of Chriſt, and a true Chriſtian Church where there is no Pariſh.</p>
+               <p n="2">2 It may ſeem too great a bondage and ſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very, both for any <hi>Church</hi> (whe<g ref="char:EOLhyphen"/>ther Presbyter: or Congregationall) to be forced to receive all into fel<g ref="char:EOLhyphen"/>lowſhip in all the Ordinances, who have their habitation or reſidence in the ſame <hi>Pariſh</hi> bounds with them: and alſo for particular <hi>perſons</hi> to be neceſſi<g ref="char:EOLhyphen"/>tated to be of this or that particular Congregation, in fellowſhip with ſuch Members, and under the Miniſtry of ſuch a man, which they cannot find ſo ſuitable to their ſpirits, and ſo profi<g ref="char:EOLhyphen"/>table for their ſpirituall edification, as ſome others, which may not be far off from them. And whereas it may fall out (which poſſibly may come in here
+<pb n="19" facs="tcp:50336:11"/>as an Objection) that the Miniſter, un<g ref="char:EOLhyphen"/>der whom a man liveth, is taken away by death, and another one called into his place and Office by the generality of the Church, who may be as unſuita<g ref="char:EOLhyphen"/>ble unto the Spirit of this or that Bro<g ref="char:EOLhyphen"/>ther, as the Miniſter of the Pariſh where he dwells, or as any other, ſhall not be bound to ſubmit to the choice of the Church, or muſt the Church ſuſpend their choice upon the Negative vote of any one Brother? In ſuch a caſe 'tis lawfull for that diſſenting Brother, who cannot call ſuch a man to be his Miniſter, nor owne him as his Paſtour or Teacher, to deſire a Letter of diſmiſ<g ref="char:EOLhyphen"/>ſion to ſome other Church and Officer, whom he can more freely and com<g ref="char:EOLhyphen"/>fortably cloſe in his ſpirit withall, and I ſuppoſe that Church, with whom he hath fellowſhip at the preſent, is bound to yield unto his equall and juſt deſire, that ſo they may part in a loving and brotherly manner. We doe generally allow every ſervant ſo much liberty for his outward comfort and advan<g ref="char:EOLhyphen"/>tage, as to chooſe his owne Maſter, in whoſe Family, and under whoſe Go<g ref="char:EOLhyphen"/>vernment and inſpection he is to live,
+<pb n="20" facs="tcp:50336:12"/>and why ſhould not Chriſtians alſo (being made free-men by Chriſt) have as much liberty for their ſpirituall comfort and edification, to choſe the particular Church under whoſe teach<g ref="char:EOLhyphen"/>ing and inſpection they are to abide: And why elſe hath the Lord (out of his infinite goodneſſe and wiſedome) given out diverſity of gifts to divers of his Servants in the Miniſtry, but to ſuite the variety of ſpirits and diſpoſi<g ref="char:EOLhyphen"/>tions in his people? Every lock not agreeing with every key; as our Reve<g ref="char:EOLhyphen"/>rend Author was wont to expreſs him<g ref="char:EOLhyphen"/>ſelfe, ſpeaking of this very thing.</p>
+               <p n="3">3 Experience doth alſo teſtifie, <hi>de facto,</hi> that ſuch a courſe is poſſible to be uſed and practiſed without making ſuch diſorder and confuſion, as is con<g ref="char:EOLhyphen"/>ceived by ſome: For notwithſtanding it be practiſed by ſome Churches (not onely <hi>Congregationall,</hi> but <hi>Presbyteriall</hi> alſo, and <hi>Claſſicall</hi>) to have their Mem<g ref="char:EOLhyphen"/>bers ſcattered up and down in ſeverall Precincts or <hi>Pariſhes,</hi> yet there have not any ſuch confuſion and diſorder fol<g ref="char:EOLhyphen"/>lowed thereupon: as we have ſeen by the conſtant practice of our Brethren in the Congregations both of the <hi>Dutch</hi>
+                  <pb n="21" facs="tcp:50336:12"/>and <hi>French</hi> here amongſt us in <hi>England,</hi> as <hi>viz.</hi> in <hi>London, Norwich, Canterbury, C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lcheſter,</hi> and in ſuch other places where they doe inhabit; who although they be diſperſed throughout the Ci<g ref="char:EOLhyphen"/>ties and Townes where they live, yet are not thought, nor ever were by any (except poſſibly by ſome of the Lordly Prelates, who out of their ſuperſtitious zeale did ſeek to undermine and diſ<g ref="char:EOLhyphen"/>ſolve their Congregations) to be any occaſion of diſorder and confuſion by their Meeting together in their holy Aſſemblies, from all parts of the Cities and Townes where they dwell. And why might not the like liberty be al<g ref="char:EOLhyphen"/>lowed unto the <hi>Engliſh</hi> themſelves, without any juſt feare of diſorder thereby? There ſeems nothing but cu<g ref="char:EOLhyphen"/>ſtome againſt it, for had it been but the practice and courſe of the <hi>Engliſh,</hi> as it hath beene of the other, certainly it would not be accounted more diſor<g ref="char:EOLhyphen"/>derly then theirs is.</p>
+               <p>Onely if (while the diviſion by Pa<g ref="char:EOLhyphen"/>riſhes doe continue) men doe allow and contribute, not onely toward the Poor, but alſo toward the Preaching of the word in their ſeverall Pariſhes,
+<pb n="22" facs="tcp:50336:13"/>that the word may be diſpenſed all the Land over, I ſhould not gainſay it, as I ſuppoſe the brethren both of the <hi>French</hi> and <hi>Dutch</hi> have been wont to doe, in the ſeverall Pariſhes where they live.</p>
+               <p>Finally, <hi>Brethren be of one mind, live in Peace, and the God of Love and Peace ſhall be with you.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50336:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
